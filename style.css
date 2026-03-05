@@ -18,3 +18,10 @@ background-color: rgb(62, 146, 194);
     margin: 10px;
     background-color: rgb(216, 182, 32);
 }
+
+.flex{
+
+
+display: flex;
+
+}
