@@ -14,7 +14,7 @@ background-color: rgb(62, 146, 194);
 
 .yo{
 
-    padding: 75px;
+    padding: 100px;
     margin: 10px;
     background-color: rgb(216, 182, 32);
 }
@@ -36,4 +36,10 @@ display: flex;
 .green{
 padding-bottom: 200;
      background-color: rgb(216, 182, 32);
+}
+
+.quadrado_grande{
+     padding: 200px;
+    margin: 10px;
+    background-color: rgb(216, 182, 32);
 }
