@@ -1,45 +1,31 @@
 body{
-    display:flex ;
-
+    display: flex;
     align-items: flex-start;
 }
 
 
-
 .blue{
-padding: 100px;
-
-background-color: rgb(62, 146, 194);
-}
-
-.yo{
-
     padding: 100px;
+    background-color: rgb(2, 114, 179);
+}
+.yo{
+    padding: 50;
+    background-color: rgb(255, 255, 0);
     margin: 10px;
-    background-color: rgb(216, 182, 32);
 }
 
 .red{
-
-
-    padding-right: 250px;
-    background-color: rgb(204, 172, 28);
+    background-color:  rgb(255, 255, 0);
+    padding-right: 175px;
 }
-
-.flex{
-
-
-display: flex;
-
-}
-
 .green{
-padding-bottom: 200;
-     background-color: rgb(216, 182, 32);
+    background-color: green;
+    padding-bottom: 130px;
 }
-
-.quadrado_grande{
-     padding: 200px;
-    margin: 10px;
-    background-color: rgb(216, 182, 32);
+.pink{
+    background-color: pink;
+    padding-bottom: 150px;
+}
+.flex{
+    display: flex;
 }
